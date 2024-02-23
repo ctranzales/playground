@@ -1,0 +1,6 @@
+//hi. I don't know what I'm doing. Is this a comment?
+
+x = 2
+y = x + 1
+
+print y

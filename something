@@ -3,4 +3,7 @@
 x = 2
 y = x + 1
 
+z = "hello"
+
 print y
+print z
